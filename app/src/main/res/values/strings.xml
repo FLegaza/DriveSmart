@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DriveSmart</string>
+    <string name="intro">Esta aplicación te ayudará a realizar más cómodamente vuestros viajes, conociendo el estado de la carretera de vuestro trayecto en cualquier momento.</string>
+    <string name="hi">¡BIENVENIDO A DRIVESMART!</string>
+</resources>
